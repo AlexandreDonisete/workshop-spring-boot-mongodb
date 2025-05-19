@@ -19,8 +19,7 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/AlexandreDonisete/workshop-springboot-jpa.git
-
+git clone https://github.com/AlexandreDonisete/workshop-spring-boot-mongodb.git
 # executar o projeto através da própria IDE de preferência.
 ```
 
